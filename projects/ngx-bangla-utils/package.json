@@ -1,6 +1,6 @@
 {
   "name": "ngx-bangla-utils",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Md Nahid Hasan",
   "description": "Angular library to convert numbers, dates, and currency to Bangla",
   "main": "bundles/ngx-bangla-utils.umd.js",
