@@ -123,7 +123,7 @@ MIT License
 
 ## **Repository**
 
-[GitHub Repository](https://github.com/yourusername/ngx-bangla-utils)
+[GitHub Repository](https://github.com/nahidhasanswe/ngx-bangla-utils)
 
 ---
 
